@@ -1,1 +1,7 @@
 # Transformers-and-finetuning-with-LLMs-
+Transformers and finetuning with LLMs
+
+a) Implement nanogpt from scratch using your own code in pytorch, tensorflow and jax
+
+Text generation with NanoGPT using Pytorch:
+https://colab.research.google.com/drive/15WCHdod8hCjB_OCWNk0BT--qY7AzFe5Z?usp=sharing
